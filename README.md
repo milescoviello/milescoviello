@@ -20,4 +20,7 @@ Website: [milescoviello.com](https://milescoviello.com)
 
 ### Open source
 
-- **[AnyPS5](https://github.com/boykopovar/AnyPS5)**, a tool that ports PS5 executables to Linux and Windows. My fixes and tests come from running its test suite on NVIDIA and Intel GPUs. Three commits in main so far ([a GPU fix](https://github.com/boykopovar/AnyPS5/commit/f774e1cd9), [its regression test](https://github.com/boykopovar/AnyPS5/commit/ee720ee00), [a file-system fix](https://github.com/boykopovar/AnyPS5/commit/8c06d20f6)), with more in review.
+Small contributions to other people's projects:
+
+- **[AnyPS5](https://github.com/boykopovar/AnyPS5)**, a tool that ports PS5 executables to Linux and Windows. A few fixes and tests, found by running its test suite on NVIDIA and Intel GPUs; three commits in main so far ([fix](https://github.com/boykopovar/AnyPS5/commit/f774e1cd9), [test](https://github.com/boykopovar/AnyPS5/commit/ee720ee00), [fix](https://github.com/boykopovar/AnyPS5/commit/8c06d20f6)).
+- **[workspacex](https://github.com/bakedbean/workspacex)**, a terminal tool for running coding agents in git worktrees. A few small fixes.
