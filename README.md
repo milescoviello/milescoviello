@@ -20,7 +20,7 @@ Website: [milescoviello.com](https://milescoviello.com)
 
 ### Open source
 
-Small contributions to other people's projects:
+Contributions to other people's projects:
 
-- **[AnyPS5](https://github.com/boykopovar/AnyPS5)**, a tool that ports PS5 executables to Linux and Windows. Small fixes with tests, mostly where its libc and kernel layer didn't match FreeBSD's behavior.
+- **[AnyPS5](https://github.com/boykopovar/AnyPS5)**, a tool that ports PS5 executables to Linux and Windows. Code contributions.
 - **[workspacex](https://github.com/bakedbean/workspacex)**, a terminal tool for running coding agents in git worktrees. A few small fixes.
