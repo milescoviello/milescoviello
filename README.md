@@ -17,6 +17,7 @@ Website: [milescoviello.com](https://milescoviello.com)
 | [music](https://github.com/milescoviello/music) | Native SwiftUI music client for Navidrome (iOS and linux) |
 | [nowplaying](https://github.com/milescoviello/nowplaying) | Live lyrics ticker for the KDE Plasma 6 panel, with homelab status when the music stops |
 | [apex-oled](https://github.com/milescoviello/apex-oled) | Drive the 128x40 OLED on a SteelSeries Apex Pro Gen 3 keyboard from Linux - no vendor software, no hidapi, no root |
+| [apex-analog](https://github.com/milescoviello/apex-analog) | Linux control for the SteelSeries Apex Pro Gen 3: analog key depth as a controller, MIDI or input for your own programs, plus per-key lighting and actuation. |
 
 ### Open source
 
